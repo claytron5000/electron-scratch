@@ -1,0 +1,19 @@
+{
+  "name": "scratch-electron",
+  "version": "0.1.0",
+  "description": "An electron app to wrap the scratch programming interface.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Electron",
+    "scratch"
+  ],
+  "author": "Clayton Salem",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.7",
+    "scratch-render": "0.1.0-prerelease.20190715183320"
+  }
+}
