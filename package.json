@@ -13,7 +13,7 @@
   "author": "Clayton Salem",
   "license": "MIT",
   "dependencies": {
-    "electron": "^5.0.7",
+    "electron": "^13.6.6",
     "scratch-render": "0.1.0-prerelease.20190715183320"
   }
 }
